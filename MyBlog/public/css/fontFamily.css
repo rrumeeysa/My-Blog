@@ -1,0 +1,29 @@
+/* google fonts usage area */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700t&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700t&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700t&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700t&display=swap');
+
+    
+/* 
+? google fonts usage area 
+
+
+
+*regular type:
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Arvo', serif;
+
+
+*italic type:
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Dancing Script', cursive;
+
+
+*Monospace type:
+font-family: 'Ubuntu Mono', monospace;
+
+*/
